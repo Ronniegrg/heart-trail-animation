@@ -31,14 +31,10 @@ Heart Trail Animation is a web project that generates multi-colored hearts follo
 
 Contributions are welcome! Please fork the repository and submit a pull request for any enhancements or bug fixes.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
 ## Acknowledgements
 
 - Inspired by various online animations and interactive web designs.
 
 ## Contact
 
-For any questions or feedback, please contact [yourname@example.com](mailto:yourname@example.com).
+For any questions or feedback, please contact [rounigorgees@gmail.com](mailto:rounigorgees@gmail.com).
